@@ -11,4 +11,4 @@ A sleek and modern personal portfolio website built with HTML, CSS, and JavaScri
 ## Installation
 
 ```bash
-git clone https://github.com/jarri-24-7/Frontend-Portfolio.git
+git clone https://github.com/Jarri-24-7/Frontend-Portfolio.git
